@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "matrix", "matrix.vcxproj", "{CD95E3E3-35D1-40EB-B033-2D97050C98FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Debug|x64.ActiveCfg = Debug|x64
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Debug|x64.Build.0 = Debug|x64
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Debug|x86.Build.0 = Debug|Win32
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Release|x64.ActiveCfg = Release|x64
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Release|x64.Build.0 = Release|x64
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Release|x86.ActiveCfg = Release|Win32
+		{CD95E3E3-35D1-40EB-B033-2D97050C98FA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D221238-4BB5-47E4-912B-905CB240F111}
+	EndGlobalSection
+EndGlobal
