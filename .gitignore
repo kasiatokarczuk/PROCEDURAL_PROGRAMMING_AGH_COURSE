@@ -1,0 +1,9 @@
+# Visual Studio
+.vs/
+*.user
+
+# Compilation folders
+x64/
+
+# macOS file systems
+.DS_Store
